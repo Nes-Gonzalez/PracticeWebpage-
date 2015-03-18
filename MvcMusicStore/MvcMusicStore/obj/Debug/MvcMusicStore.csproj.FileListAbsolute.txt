@@ -1,0 +1,5 @@
+D:\COSC PROJECTS\MVC MUSIC STORE-  TUTORIAL\PracticeWebpage-\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+D:\COSC PROJECTS\MVC MUSIC STORE-  TUTORIAL\PracticeWebpage-\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\COSC PROJECTS\MVC MUSIC STORE-  TUTORIAL\PracticeWebpage-\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\COSC PROJECTS\MVC MUSIC STORE-  TUTORIAL\PracticeWebpage-\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\COSC PROJECTS\MVC MUSIC STORE-  TUTORIAL\PracticeWebpage-\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
